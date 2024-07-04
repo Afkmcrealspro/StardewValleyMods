@@ -1,0 +1,102 @@
+{
+    /*********
+    ** Genel metin
+    *********/
+    // HUD mesajları
+    "spell.learn": "Bir büyü öğrendiniz: {{spellName}}",
+    "spell.learn.ancient": "Kadim bir büyü öğrendiniz: {{spellName}}",
+
+    // Menü araç ipuçları
+    "tooltip.spell.known": "{{spell}}'i sağdaki büyü çubuğuna eklemek için tıklayın ve sürükleyin.",
+    "tooltip.spell.can-learn": "Bir ücretsiz puan harcamak ve {{spell}}'i öğrenmek için tıklayın.",
+    "tooltip.spell.need-free-points": "{{spell}}'i öğrenmek için ücretsiz puanınız yok.",
+    "tooltip.spell.need-previous-levels": "Önceki büyü seviyelerini öğrenmelisiniz.",
+    "tooltip.spell.name-and-level": "{{spellName}} seviyesi {{level}}",
+
+    // Sunak
+    "altar.click-message": "Parlayan bir sunak.",
+
+
+    /*********
+    ** Büyü öğrenme etkinliği
+    *********/
+    "event.wizard.1": "Sihirli yolları öğrenme vaktiniz geldi.",
+    "event.wizard.2": "Pierre'nin dükkanındaki Yoba sunakını sizin için ayarladım...",
+    "event.wizard.3": "Size Arcane büyüsünün temellerini öğreteceğim, ancak geri kalanını kendi başınıza keşfetmelisiniz.",
+    "event.wizard.4": "Arcane 'Analiz' büyüsü çoğu büyüyü keşfetmek için kullanılabilir. Ancak, daha güçlü bazı büyüler farklı yollarla keşfedilmelidir.",
+    "event.wizard.5": "Her büyü okulu 3 normal büyüye ve dördüncü bir kadim büyüye sahiptir. Bu büyülerin nerede olduğunu ben bile bilmiyorum.",
+    "event.wizard.6": "Başlamanıza yardımcı olmak için size bir ipucu vereceğim. Sulama tenekeniz üzerinde Analiz'i kullanmayı deneyin.",
+    "event.wizard.7": "(Bir büyü yapmaya başlamak için Q'ya basın. Ardından büyüyü seçmek için 1-4'e basın.)",
+    "event.wizard.8": "(Büyü setleri arasında geçiş yapmak için TAB'a basın.)",
+    "event.wizard.9": "(Bu kontroller Magic'in yapılandırma dosyasında ayarlanabilir.)",
+    "event.wizard.abovehead": "MAGIC",
+
+
+    /*********
+    ** Radyo istasyonu
+    *********/
+    "radio.static": "*statik*",
+    "radio.analyzehints.1": "Çiftlikte sihri kullanmak mı istiyorsunuz? Araçlarınızı analiz etmeyi deneyin.",
+    "radio.analyzehints.2": "Hızlı bir kaçışa mı ihtiyacınız var? Bazı çizmeler size ilham verebilir mi acaba?",
+    "radio.analyzehints.3": "Gün ışığı çok güzel, ama her zaman mevcut değil. Yapay ışıklar yeniden yaratılabilir mi acaba?",
+    "radio.analyzehints.4": "Bazı temel mineraller biraz büyüsel enerji içeriyor gibi görünüyor.",
+    "radio.analyzehints.5": "Geçen gün arka bahçeme bir meteor düştü. Çok gizemli görünüyordu.",
+    "radio.analyzehints.6": "Kahve lezzetli. Neden etkilerini bir büyü ile yeniden yaratmıyorsunuz?",
+    "radio.analyzehints.7": "Geçen gün birinin yerden kökler çıkardığını ve bir canavarı durdurduğunu gördüm, neredeyse bir ürün gibi.",
+    "radio.analyzehints.8": "Bir şeyi yavaşlatmak için bir buz patlaması yapabileceğinizi bahse girerim. Buzu nerede inceleyebileceğinizi merak ediyorum?",
+    "radio.analyzehints.9": "Geçen gün birinin evinde karanlık bir sunak gördüm. Pekala, 'ev' derken. Daha çok bir kulübe gibiydi.",
+    "radio.analyzehints.10": "Sağlık iksirleri taşımak gerçekten zahmetli. Belki kendimizi sihirle iyileştirebiliriz?",
+    "radio.analyzehints.11": "Çoğu insan yeraltına inmek için merdiven kullanır, ama bir kişinin bir büyü yapıp doğrudan yerin altına geçtiğini gördüm.",
+    "radio.analyzehints.12": "Birinin mana kazanmak için bir büyü yaptığını gördüm!? Acı çekmiş gibi görünüyordu. Söylentilere göre bu tekniği Lava Eels için balık avlarken öğrenmişler.",
+
+
+    /*********
+    ** Büyüler
+    *********/
+    "school.arcane.name": "Arcane",
+    "school.toil.name": "Toil",
+    "school.nature.name": "Nature",
+    "school.life.name": "Life",
+    "school.elemental.name": "Elemental",
+    "school.eldritch.name": "Eldritch",
+
+    "spell.arcane:analyze.name": "Analiz",
+    "spell.arcane:analyze.desc": "Büyüsel ilham için bir öğeyi inceleyin.",
+    "spell.arcane:magicmissle.name": "Sihirli Mermi",
+    "spell.arcane:magicmissle.desc": "Biraz zayıf ama hedefe kilitlenen bir mermi.",
+    "spell.arcane:disenchant.name": "Büyüyü Boz",
+    "spell.arcane:disenchant.desc": "Bir öğenin kalitesini düşürün.\nEski ve yeni kalite arasındaki satış fiyatı farkı cüzdana geri ödenir.",
+    "spell.arcane:enchant.name": "Büyüle",
+    "spell.arcane:enchant.desc": "Katalizör: Para\nBir öğenin kalitesini artırın.\nFiyat, eski ve yeni kalite arasındaki satış fiyatı farkıdır.",
+    "spell.arcane:rewind.name": "Geri Sar",
+    "spell.arcane:rewind.desc": "Katalizör: Altın Çubuk\nZamanı geri alın.",
+
+    "spell.toil:cleardebris.name": "Moloz Temizle",
+    "spell.toil:cleardebris.desc": "Hedeflenen alandaki molozları temizleyin.\nDaha yüksek seviyeler daha büyük moloz türlerini temizleyebilir.",
+    "spell.toil:till.name": "Sür",
+    "spell.toil:till.desc": "Hedeflenen alandaki toprağı sürün.\nDaha yüksek seviyeler daha büyük bir alanı gösterir.",
+    "spell.toil:water.name": "Sulama",
+    "spell.toil:water.desc": "Hedeflenen alandaki toprağı sulayın.\nDaha yüksek seviyeler daha büyük bir alanı gösterir.",
+    "spell.toil:blink.name": "Yanıp Sön",
+    "spell.toil:blink.desc": "Hedeflenen alana ışınlanın.",
+
+    "spell.nature:lantern.name": "Fener",
+    "spell.nature:lantern.desc": "Sizi takip edecek bir ışık çağırın.\nDaha yüksek seviyeler daha fazla ışık oluşturur.",
+    "spell.nature:tendrils.name": "Sarmaşıklar",
+    "spell.nature:tendrils.desc": "Bir düşmanı yollarında durdurmak için sarmaşıklar çağırın.",
+    "spell.nature:shockwave.name": "Şok Dalgası",
+    "spell.nature:shockwave.desc": "Havaya zıplayın ve aşağı vurun, bir şok dalgası gönderin.\n Daha yüksek seviyeler daha büyük ve şiddetlidir.",
+    "spell.nature:photosynthesis.name": "Fotosentez",
+    "spell.nature:photosynthesis.desc": "Katalizör: Prizmatik Parça\n\nTüm bitkilerinizi bir aşama ilerletin.",
+
+    "spell.life:heal.name": "İyileştir",
+    "spell.life:heal.desc": "Mananın maliyeti ile sağlığınızı geri kazanın.\nDaha yüksek seviyeler, daha iyi bir maliyet oranında daha fazla iyileştirir.",
+    "spell.life:haste.name": "Çabukluk",
+    "spell.life:haste.desc": "Rüzgar kadar hızlı hareket edin.\nDaha yüksek seviyeler, daha uzun süre daha hızlı hareket etmenizi sağlar.",
+    "spell.life:buff.name": "Güçlendirme",
+    "spell.life:buff.desc": "Kendinizin her yönünü geliştirin.\nDaha yüksek seviyeler, kendinizi daha uzun süre daha fazla geliştirir.",
+    "spell.life:evac.name": "Tahliye",
+    "spell.life:evac.desc": "Girdiğiniz yere ışınlanın.",
+
+    "spell.elemental:fireball.name": "Ateş Topu",
+    "spell.elemental:fireball.desc": "Düşmanlarınıza yıkıcı bir
